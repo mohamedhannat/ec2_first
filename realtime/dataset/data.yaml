@@ -1,0 +1,6 @@
+
+        train: /home/ubuntu/dev/realtime/dataset/train/images
+        val: /home/ubuntu/dev/realtime/dataset/valid/images
+        nc: 1
+        names: ["bottles"]
+        

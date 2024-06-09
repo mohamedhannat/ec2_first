@@ -1,0 +1,5 @@
+Flask
+Flask-CORS
+numpy
+opencv-python-headless
+ultralytics
